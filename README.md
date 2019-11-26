@@ -22,12 +22,12 @@ This project is a starting point for a Flutter application.
       <td style="text-align: center">
         <img src="./screenshots/4.jpeg" width="200" />
       </td>
+    </tr>
+        <tr>
       <td style="text-align: center">
         <img src="./screenshots/5.jpeg" width="200" />
       </td>
-    </tr>
-    <tr>
-      <td style="text-align: center">
+         <td style="text-align: center">
         <img src="./screenshots/6.jpeg" width="200" />
       </td>
       <td style="text-align: center">
@@ -36,7 +36,9 @@ This project is a starting point for a Flutter application.
       <td style="text-align: center">
         <img src="./screenshots/8.jpeg" width="200" />
       </td>
-      <td style="text-align: center">
+    </tr>
+    <tr>
+       <td style="text-align: center">
         <img src="./screenshots/9.jpeg" width="200" />
       </td>
       <td style="text-align: center">
