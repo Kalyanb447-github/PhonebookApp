@@ -11,10 +11,10 @@ This project is a starting point for a Flutter application.
   <table>
     <tr>
       <td style="text-align: center">
-        <img src="./screenshots/1.jpg" width="200" />
+        <img src="./screenshots/1.jpeg" width="200" />
       </td>
       <td style="text-align: center">
-        <img src="./screenshots/2.jpg" width="200" />
+        <img src="./screenshots/2.jpeg" width="200" />
       </td>
       <!-- <td style="text-align: center">
         <img src="./screenshots/3.png" width="200" />
