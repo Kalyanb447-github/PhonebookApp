@@ -3,9 +3,7 @@
 A new Flutter project for phonebook.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
+  install and use 
 ## Screenshots
 <div style="text-align: center">
   <table>
