@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280391683569",
+    "firebase_url": "https://myphonebookapp-636c6.firebaseio.com",
+    "project_id": "myphonebookapp-636c6",
+    "storage_bucket": "myphonebookapp-636c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280391683569:android:f6f74fcd960623aacd8850",
+        "android_client_info": {
+          "package_name": "com.example.my_phonebook_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280391683569-4a4r8m6jlnp97hi1om3mgno8ndlqsk2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC--LBz58Qko4PZIuIKB8bCA_bEofdEd-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280391683569-4a4r8m6jlnp97hi1om3mgno8ndlqsk2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
